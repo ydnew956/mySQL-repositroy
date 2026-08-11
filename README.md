@@ -48,6 +48,7 @@ This project was completed during the Data Technician Bootcamp week 3, focusing 
 
 - Strengthened understanding of how SQL supports business intelligence and decision-making.
 
+<img width="627" height="361" alt="Screenshot 2026-08-11 145620" src="https://github.com/user-attachments/assets/ab0c8ff9-766a-4d46-a06f-303452892734" />
 
 ## 🧰 Tools Used
 
