@@ -1,6 +1,6 @@
 # 🧮 SQL Retail & Sales Data Analysis Project
 ## 📘 Project Overview
-This project was completed during the Data Technician Bootcamp, focusing on analysing retail and sales data using SQL. The goal was to extract meaningful insights from structured datasets through efficient query writing and relational database operations.
+This project was completed during the Data Technician Bootcamp week 3, focusing on analysing retail and sales data using SQL. The goal was to extract meaningful insights from structured datasets through efficient query writing and relational database operations.
 
 
 ## 🧠 Skills Demonstrated
