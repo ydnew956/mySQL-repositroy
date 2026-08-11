@@ -57,3 +57,30 @@ This project was completed during the Data Technician Bootcamp, focusing on anal
 
 - 🧮 SQL Workbench / pgAdmin
 
+# 🧭 How to Use
+1. Clone or download the repository  
+Use the Code button on GitHub to clone the repo or download it as a ZIP file.
+
+1. Open the SQL scripts  
+Load the .sql files in your preferred SQL environment (MySQL Workbench, pgAdmin, Azure Data Studio, or any SQL client).
+
+1. Import the dataset  
+Create the necessary tables (products, customers, transactions, etc.) and insert the sample retail and sales data provided in the project.
+
+1. Run the queries  
+Execute the SQL scripts to explore:
+
+-  Product category performance
+
+-  Monthly and yearly sales trends
+
+-  Customer purchasing behaviour
+
+-  Commission and revenue calculations
+
+5. Modify or extend the queries  
+Experiment by adding new conditions, JOINs, or aggregations to deepen your analysis or adapt the project to new datasets.
+
+6. Use results for reporting  
+Export query outputs or integrate them into dashboards, reports, or further analysis tools. 
+
