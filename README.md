@@ -1,24 +1,24 @@
-# 🧮 SQL Retail & Sales Data Analysis Project
-## 📘 Project Overview
+#  SQL Retail & Sales Data Analysis Project
+##  Project Overview
 This project was completed during the Data Technician Bootcamp week 3, focusing on analysing retail and sales data using SQL. The goal was to extract meaningful insights from structured datasets through efficient query writing and relational database operations.
 
 
-## 🧠 Skills Demonstrated
+##  Skills Demonstrated
 
-- 🧩 **Query Writing**
+-  **Query Writing**
 
-- 🔍 **SELECT** – Retrieved specific columns and records for targeted analysis.
+-  **SELECT** – Retrieved specific columns and records for targeted analysis.
 
-- ⚙️ **WHERE** – Filtered data based on conditions such as product category, region, and date.
+-  **WHERE** – Filtered data based on conditions such as product category, region, and date.
 
-- 📊 **ORDER BY** – Sorted results to identify top-performing products and trends.
+-  **ORDER BY** – Sorted results to identify top-performing products and trends.
 
-- 📈 **GROUP BY** – Aggregated data to calculate total sales, average revenue, and category performance.
+-  **GROUP BY** – Aggregated data to calculate total sales, average revenue, and category performance.
 
-- 🔗 **JOINs** – Combined multiple tables (e.g., products, customers, transactions) to create comprehensive views of business performance.
+-  **JOINs** – Combined multiple tables (e.g., products, customers, transactions) to create comprehensive views of business performance.
 
 
-## 🛍️ Dataset Description
+##  Dataset Description
 
 - The dataset included:
 
@@ -29,7 +29,7 @@ This project was completed during the Data Technician Bootcamp week 3, focusing 
 - Customer and transaction details for monthly and yearly trend analysis
 
 
-## 📈 Data Analysis & Insights
+##  Data Analysis & Insights
 
 - Identified top-selling products and regions using GROUP BY and ORDER BY.
 
@@ -40,7 +40,7 @@ This project was completed during the Data Technician Bootcamp week 3, focusing 
 - Filtered seasonal trends and high-value customers using WHERE clauses.
 
 
-## 🚀 Outcomes
+##  Outcomes
 
 - Delivered a set of optimized SQL queries for retail performance analysis.
 
@@ -48,18 +48,18 @@ This project was completed during the Data Technician Bootcamp week 3, focusing 
 
 - Strengthened understanding of how SQL supports business intelligence and decision-making.
 
-## 🧰 Tools Used
+##  Tools Used
 
-- 💻 MySQL / PostgreSQL
+-  MySQL / PostgreSQL
 
-- 🗂️ Relational Database Management Systems (RDBMS)
+-  Relational Database Management Systems (RDBMS)
 
-- 🧮 SQL Workbench / pgAdmin
+-  SQL Workbench / pgAdmin
 
 ## Examples
 <img width="627" height="361" alt="Screenshot of SQL query to find the category of each product " src="https://github.com/user-attachments/assets/ab0c8ff9-766a-4d46-a06f-303452892734" />
 
-## 🧭 How to Use
+##  How to Use
 1. **Clone or download the repository** 
 Use the Code button on GitHub to clone the repo or download it as a ZIP file.
 
