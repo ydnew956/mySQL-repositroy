@@ -48,8 +48,6 @@ This project was completed during the Data Technician Bootcamp week 3, focusing 
 
 - Strengthened understanding of how SQL supports business intelligence and decision-making.
 
-<img width="627" height="361" alt="Screenshot 2026-08-11 145620" src="https://github.com/user-attachments/assets/ab0c8ff9-766a-4d46-a06f-303452892734" />
-
 ## 🧰 Tools Used
 
 - 💻 MySQL / PostgreSQL
@@ -57,6 +55,9 @@ This project was completed during the Data Technician Bootcamp week 3, focusing 
 - 🗂️ Relational Database Management Systems (RDBMS)
 
 - 🧮 SQL Workbench / pgAdmin
+
+## Examples
+<img width="627" height="361" alt="Screenshot of SQL query to find the category of each product " src="https://github.com/user-attachments/assets/ab0c8ff9-766a-4d46-a06f-303452892734" />
 
 ## 🧭 How to Use
 1. **Clone or download the repository** 
