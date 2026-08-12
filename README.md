@@ -20,7 +20,7 @@ This project was completed during the Data Technician Bootcamp week 3, focusing 
 
 ##  Dataset Description
 
-- The dataset included:
+The dataset included:
 
 - Product categories (Clothing, Electronics, Beauty)
 
