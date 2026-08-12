@@ -56,9 +56,6 @@ The dataset included:
 
 -  SQL Workbench / pgAdmin
 
-## Examples
-<img width="627" height="361" alt="Screenshot of SQL query to find the category of each product " src="https://github.com/user-attachments/assets/ab0c8ff9-766a-4d46-a06f-303452892734" />
-
 ##  How to Use
 1. **Clone or download the repository** 
 Use the Code button on GitHub to clone the repo or download it as a ZIP file.
@@ -85,4 +82,14 @@ Experiment by adding new conditions, JOINs, or aggregations to deepen your analy
 
 6. **Use results for reporting**
 Export query outputs or integrate them into dashboards, reports, or further analysis tools. 
+
+
+## Example 1
+
+Write a SQL query to retrieve the Product Name, Category Name, and Supplier Name for all products.
+```SQL
+SELECT productname, categoryname, suppliername
+FROM products as p -- names products as p using alias
+INNER JOIN categories as c -- names categories a c using alias on p.categoryid = c.categoryid
+INNER JOIN suppliers as s on p.supplierid = s.supplierid;
 
