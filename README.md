@@ -94,10 +94,25 @@ INNER JOIN categories as c -- names categories a c using alias on p.categoryid =
 INNER JOIN suppliers as s on p.supplierid = s.supplierid;
 ~~~
 
-# another 
+## Example 2 
 Product Name, Category Name, and Supplier Name for all products. 
 ~~~SQL
 SELECT productname, categoryname, suppliername 
 FROM products as p -- names products as p using alias 
 INNER JOIN categories as c -- names categories a c using alias on p.categoryid = c.categoryid 
 INNER JOIN suppliers as s on p.supplierid = s.supplierid;
+~~~
+## Example 3
+Cities with Population Between 500,000 and 1,000,000 -- Retrieve city names and populations within the specified range 
+~~~SQL
+SELECT Name, -- City name Population -- Population count 
+FROM City -- Table containing city data 
+WHERE Population BETWEEN 500000 AND 1000000 -- Filter cities within range 
+ORDER BY Population DESC; -- Sort cities by population (highest first)
+~~~
+## Example 4
+-- Average Population by Country -- Calculate the average population for each country
+~~~SQL
+SELECT Country, -- Country name AVG(Population) AS Average_Population -- Average population per country
+FROM Country -- Table containing country data
+GROUP BY Country; -- Group results by country name
