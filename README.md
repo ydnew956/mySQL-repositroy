@@ -87,9 +87,17 @@ Export query outputs or integrate them into dashboards, reports, or further anal
 ## Example 1
 
 Write a SQL query to retrieve the Product Name, Category Name, and Supplier Name for all products.
-```SQL
+~~~SQL
 SELECT productname, categoryname, suppliername
 FROM products as p -- names products as p using alias
 INNER JOIN categories as c -- names categories a c using alias on p.categoryid = c.categoryid
 INNER JOIN suppliers as s on p.supplierid = s.supplierid;
+~~~
 
+# another 
+Product Name, Category Name, and Supplier Name for all products. 
+~~~SQL
+SELECT productname, categoryname, suppliername 
+FROM products as p -- names products as p using alias 
+INNER JOIN categories as c -- names categories a c using alias on p.categoryid = c.categoryid 
+INNER JOIN suppliers as s on p.supplierid = s.supplierid;
